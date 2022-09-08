@@ -6,7 +6,7 @@
 
 ### CPL Launcher is designed for Windows 10 and has not been tested on any other versions of Windows.
 
-[remember to insert image]
+[![](https://i.postimg.cc/TPDG25Xr/CPL-2-0-1.png)](https://postimg.cc/Z94XVRnR)
 
 ***
 
