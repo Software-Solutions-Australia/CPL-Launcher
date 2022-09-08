@@ -25,7 +25,7 @@
 
 ***
 
-## [USAGE INSTRUCTIONS:](https://github.com/Software-Solutions-Australia/CPL-Launcher/wiki)
+## USAGE INSTRUCTIONS:
 
 1. Type a CPL name in the "Enter CPL Name" field, for example: "desk" or "inetcpl".
 
